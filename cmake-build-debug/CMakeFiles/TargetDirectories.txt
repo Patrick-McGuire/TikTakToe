@@ -1,0 +1,3 @@
+C:/Users/patri/Documents/Tick/cmake-build-debug/CMakeFiles/Tick.dir
+C:/Users/patri/Documents/Tick/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/patri/Documents/Tick/cmake-build-debug/CMakeFiles/rebuild_cache.dir
